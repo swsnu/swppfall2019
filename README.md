@@ -7,4 +7,4 @@
 ## Schedule (TBD)
 | Week  | Lecture | Practice Session | Homework / Project / Exam |
 |-------|---------|------------------|--------------------|
-|9/4,6 | Introduction - what softwares do, requirements and challenges to make them good, safe, and reliable | ? | HW1 out |
+|9/2,4 | Introduction - what softwares do, requirements and challenges to make them good, safe, and reliable | ? | HW1 out |

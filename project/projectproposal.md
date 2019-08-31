@@ -8,7 +8,7 @@ In particular, your proposal should include:
 - the proposer names (team information)
 - a title (it can be changed later)
 - your target customers
-- what feature the system would add or what problem the system would solve and why the system is important and exciting
+- what feature the system would add or what problem the system would solve and why the system is important and exciting (at least one of the features must make use of machine learning)
 - what the system would do
 - how you will test and demo the system
 

@@ -10,7 +10,7 @@
 | Week  | Lecture | Practice Session | Homework / Project / Exam |
 |-------|---------|------------------|--------------------|
 |9/2,4 | Course overview; project examples ; Project examples | Python, Javascript Basics Review | HW1 out |
-|9/9,11| What softwares do, requirements and challenges to make them good, safe, and reliableHow to collaborate as a team and the methods and tools for it | Choosuk (No practice session) | Team formation due 9/10 (Tue) 6pm; 
+|9/9,11| What softwares do, requirements and challenges to make them good, safe, and reliable; How to collaborate as a team and the methods and tools for it | Choosuk (No practice session) | Team formation due 9/10 (Tue) 6pm; 
 |9/16,18 | Good coding habits. Comments and code conventions | React Tutorial |  Project proposal due 9/17 (Tue) 6pm, HW 1 due 9/15 6pm ||
 |9/23,25 | Complexity problem and software structures | Redux Tutorial |  Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint) | 
 |9/30,10/2 | Complexity problem and software structures | React + Redux Testing |  |

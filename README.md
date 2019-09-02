@@ -4,6 +4,12 @@
 - Team formation due 9/10 (Tue) 6pm
 - HW1 out; due 9/15 (Sun) 6pm
 
+## Assignments
+
+- Sep. 02 : [homework 1](hw1) is out
+  - **Due : 9/15 (Sun) 18:00 (hard deadline)**
+  - This is an individual assignment
+
 ## [Project Guideline](project)
 
 ## Schedule (TBD)

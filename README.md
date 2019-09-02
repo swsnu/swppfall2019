@@ -32,6 +32,25 @@
 |12/9,11 | Advanced topics | | |
 |12/16 | Project poster session | | Project final report (due 12/18 6pm) |
 
+## Office hours
+**Professor** : 
+  - Office: Bldg. 302, Rm. 322
+  - MonWed 4PM-5PM, by appointment
+  
+**TAs** :
 
+Taebum Kim
+  - Email: k.taebum@snu.ac.kr
+  - Office: Bldg. 302, Rm. 420
+  - Office hour: Wednesday 16:00~17:00
 
+Kyunggeun Lee
+  - Email: gurumo0917@gmail.com
+  - Office: Bldg. 302, Rm. 420
+  - Office hour: Thursday 17:00~18:00
 
+Haeyoon Cho
+  - Email: chohy0555@gmail.com
+  - Office: Bldg. 302, Rm. 420
+
+(Please send TAs an email ahead of time, we can set up a specific time and place)

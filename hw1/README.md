@@ -249,5 +249,15 @@ git remote add origin https://github.com/USERNAME/swpp-hw1-USERNAME
 git push -u origin master
 ```
 
+Alternatively you can start by copying skeleton codes :)
+```
+cp -r ${swppfall2019-home}/hw1 ~/workspace/swpp-hw1-USERNAME
+git init
+git add .
+git commit -m "first commit"
+git remote add origin https://github.com/USERNAME/swpp-hw1-USERNAME
+git push -u origin master
+```
+
 7. Under `Settings` then `Collaborators` tab, Add TAs as your collaborators: `ktaebum`, `kyunggeun-lee`, and `hy00nc`.
 8. You're all set! After finishing your homework, push your contents to your repository on time!

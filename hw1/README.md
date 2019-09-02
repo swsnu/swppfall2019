@@ -3,7 +3,7 @@
 **Due: 9/15 (Sun) 18:00 (This is a hard deadline)**
 
 This assignment is for you to become familiar with Python and JavaScript.
-You will be using Python to build a backend system, and JavaScript to build a (separated) frontend system, using the React framework.
+You will be using Python to build a backend system, and JavaScript to build a (separated) frontend system, using the React framework in hw2 and hw3.
 This is an **individual** assignment.
 
 From the beginning to the end of the development, you must use **GitHub** for version control.

@@ -3,7 +3,7 @@
 ## Announcements
 - Team formation due 9/10 (Tue) 6pm
 - HW1 out; due 9/15 (Sun) 6pm
-- Skeleton code of HW1 python updated (to import os package)
+- Sep.04: Skeleton code of HW1 python updated (to import os package)
 
 
 ## Assignments

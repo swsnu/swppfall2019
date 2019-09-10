@@ -143,7 +143,7 @@ With the given form, upon clicking on the `check` button, it should first produc
 If there is no problem with the form, it should show a modal indicating that it had been successfully submitted.
 Specific **requirements** are as listed below.
 - Email: `characters(except for whitespace and '@')` **@** `characters(except for whitespace, '@' and '.')` **.** `2-3 alphabets` 
-  - *characters* mean one or more characters including alphabets, numbers and special characters.
+  - *characters* mean one or more characters including alphabets, numbers or special characters.
   - *alphabets* include both lowercase and uppercase.
   - e.g.) valid@javascript.com (O), invalid@snu.ac.kr (X)
 - Password: Must contain at least one number and one uppercase and one lowercase letter, and at least 8 or more characters.

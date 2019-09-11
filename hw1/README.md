@@ -142,7 +142,8 @@ You need to provide following features by completing `form.js`:
 With the given form, upon clicking on the `check` button, it should first produce a pop-up listing out which forms to check and correct (see requirements). 
 If there is no problem with the form, it should show a modal indicating that it had been successfully submitted.
 Specific **requirements** are as listed below.
-- Email: `characters(except for whitespace and '@')` **@** `characters(except for whitespace, '@' and '.')` **.** `2-3 alphabets` 
+- Email: characters other than @ or whitespace followed by an @ sign, followed by more characters (not '@', '.', or whitespace: co.kr is not allowed in this case), and then a ".". After the ".", you can only write 2 to 3 letters from a to z.
+  - `characters(except for whitespace and '@')` **@** `characters(except for whitespace, '@' and '.')` **.** `2-3 alphabets` 
   - *characters* mean one or more characters including alphabets, numbers or special characters.
   - *alphabets* include both lowercase and uppercase.
   - e.g.) valid@javascript.com (O), invalid@snu.ac.kr (X)

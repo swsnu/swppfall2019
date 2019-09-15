@@ -208,7 +208,7 @@ We will see the outputs to validate your answers.
 
 Due: 9/15 (Sun) 18:00 (This is a hard deadline)
 
-You must create your own *private* repository under your account and **send them by email to `swpp-tas@spl.snu.ac.kr`**.
+You must create your own *private* repository under your account ~~and **send them by email to `swpp-tas@spl.snu.ac.kr`**~~.
 **Be sure to add the TAs as collaborators in your repository settings!** (Detailed instructions below).
 We will check the snapshot of the *master* branch of your Github repository at the deadline and grade it.
 Please create a `python` and `javascript` folders, and put your homework files in them appropriately. 

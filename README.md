@@ -4,12 +4,17 @@
 - Team formation due 9/10 (Tue) 6pm
 - HW1 out; due 9/15 (Sun) 6pm
 - Sep.04: Skeleton code of HW1 python updated (to import os package)
+- HW2 out; due 10/8 (Tue) 6pm
 
 
 ## Assignments
 
 - Sep. 02 : [homework 1](hw1) is out
   - **Due : 9/15 (Sun) 18:00 (hard deadline)**
+  - This is an individual assignment
+
+- Sep. 17 : [homework 2](hw2) is out
+  - **Due : 10/8 (Tue) 18:00 (hard deadline)**
   - This is an individual assignment
 
 ## [Project Guideline](project)

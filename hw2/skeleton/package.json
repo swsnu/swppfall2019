@@ -1,0 +1,37 @@
+{
+    "name": "skeleton",
+    "version": "0.1.0",
+    "private": true,
+    "proxy": "http://localhost:8000",
+    "dependencies": {
+        "enzyme": "^3.10.0",
+        "enzyme-adapter-react-16": "^1.14.0",
+        "json-server": "^0.15.1",
+        "react": "^16.9.0",
+        "react-dom": "^16.9.0",
+        "react-scripts": "3.1.1",
+        "react-test-renderer": "^16.9.0"
+    },
+    "scripts": {
+        "start": "react-scripts start",
+        "build": "react-scripts build",
+        "test": "react-scripts test",
+        "eject": "react-scripts eject",
+        "backend": "cp api/db.json api/_db.json && json-server --watch api/_db.json --routes api/routes.json --port 8000"
+    },
+    "eslintConfig": {
+        "extends": "react-app"
+    },
+    "browserslist": {
+        "production": [
+            ">0.2%",
+            "not dead",
+            "not op_mini all"
+        ],
+        "development": [
+            "last 1 chrome version",
+            "last 1 firefox version",
+            "last 1 safari version"
+        ]
+    }
+}

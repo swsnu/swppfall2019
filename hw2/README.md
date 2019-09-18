@@ -48,8 +48,8 @@ You are required to create a total of five pages as shown in the below storyboar
     | input or textarea | article-content-input |
     | button | back-create-article-button |
     | button | confirm-create-article-button |
-    | button (or maybe ngb-tab) | preview-tab-button |
-    | button (or maybe ngb-tab) | write-tab-button |
+    | button (or maybe React navigation-tab) | preview-tab-button |
+    | button (or maybe React navigation-tab) | write-tab-button |
 
   - Also, you must have the following fields in Preview tab:
   
@@ -60,8 +60,8 @@ You are required to create a total of five pages as shown in the below storyboar
     | any plain text (like h1, h3, p, …) | article-content |
     | button | back-create-article-button |
     | button | confirm-create-article-button |
-    | button (or maybe ngb-tab) | preview-tab-button |
-    | button (or maybe ngb-tab) | write-tab-button |
+    | button (or maybe React navigation-tab) | preview-tab-button |
+    | button (or maybe React navigation-tab) | write-tab-button |
     
   - When users fill up the title and contents under Write tab and hit the confirm button (either in Preview tab or Write tab), a new article having the given title and contents should be posted.
   - The created article, of course, should be tagged with your own author id.
@@ -110,8 +110,8 @@ You are required to create a total of five pages as shown in the below storyboar
     | input or textarea | article-content-input |
     | button | back-edit-article-button |
     | button | confirm-edit-article-button |
-    | button (or maybe ngb-tab) | preview-tab-button |
-    | button (or maybe ngb-tab) | write-tab-button |
+    | button (or maybe React navigation-tab) | preview-tab-button |
+    | button (or maybe React navigation-tab) | write-tab-button |
 
   - Also, you must have the following fields in Preview tab:
     
@@ -122,8 +122,8 @@ You are required to create a total of five pages as shown in the below storyboar
     | any plain text (like h1, h3, p, …) | article-content |
     | button | back-edit-article-button |
     | button | confirm-edit-article-button |
-    | button (or maybe ngb-tab) | preview-tab-button |
-    | button (or maybe ngb-tab) | write-tab-button |
+    | button (or maybe React navigation-tab) | preview-tab-button |
+    | button (or maybe React navigation-tab) | write-tab-button |
     
   - Users should see similar stuffs with article create page: Write tab and Preview tab. All requirements for the plain texts and tab buttons are identical to the create page (except the url).
   - When a user hits `confirm-edit-article-button`, the user should be redirected to the article detail page (`articles/:id`) and the edited title and contents should be saved. Any comment for the article should not be modified or deleted by this process.

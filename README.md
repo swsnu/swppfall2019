@@ -5,6 +5,7 @@
 - HW1 out; due 9/15 (Sun) 6pm
 - Sep.04: Skeleton code of HW1 python updated (to import os package)
 - HW2 out; due 10/8 (Tue) 6pm
+- Sep.18 (16:05): Minor modification of HW2's backend
 
 
 ## Assignments

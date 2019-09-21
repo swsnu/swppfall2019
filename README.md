@@ -6,6 +6,7 @@
 - Sep.04: Skeleton code of HW1 python updated (to import os package)
 - HW2 out; due 10/8 (Tue) 6pm
 - Sep.18 (16:05): Minor modification of HW2's backend
+- Sep.21 (23:15): Clarification of `article/:id/edit` spec, modification of api `put` description [diff](https://github.com/swsnu/swppfall2019/commit/07dae919eba6b72155c64a9aa67fcacdcf7dfd1f)
 
 
 ## Assignments

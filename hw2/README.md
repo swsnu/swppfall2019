@@ -126,14 +126,17 @@ You are required to create a total of five pages as shown in the below storyboar
     | button | write-tab-button |
     
   - Users should see similar stuffs with article create page: Write tab and Preview tab. All requirements for the plain texts and tab buttons are identical to the create page (except the url).
+    - However, the `article-title-input` should contains current article's title and `article-content-input` should contains current article's content
   - When a user hits `confirm-edit-article-button`, the user should be redirected to the article detail page (`articles/:id`) and the edited title and contents should be saved. Any comment for the article should not be modified or deleted by this process.
   - When a user hits `back-edit-article-button`, the following features should be supported:
     - If the title and contents have not been modified yet but are the same as the title and contents before editing, just go back to the detail page without any alert.
     - If the title or contents has been modified modified, you should make a confirmation pop-up (through Javascript `confirm` command) with message `Are you sure? The change will be lost.`
       - If the user accept the confirmation, the user should be redirected to the detail page and the title and contents of the article should not be modified.
       - If the user dismiss the confirmation, the user should just stay on the edit page and be able to resume editing.
+  - If the title or content input are empty, the confirm button should be disabled (consistent to `/create`).
 - Common things for **all pages**:
   - If the user is logged-in, the user should be able to log-out from any of the pages by clicking `logout-button`. Upon logging-out, the user should end on the initial Log In page (shown as dotted lines on the storyboard).
+
     
     | JSX Tag type | id |
     |---------------|--|
@@ -155,12 +158,12 @@ You should be able to implement your redux action creators by sending appropriat
 
 | API                    | GET | POST | PUT | DELETE |
 |------------------------|-----|------|-----|--------|
-| `api/user`        | X | X | Update user's `logged_in` value to log-in/log-out | X |
-| `api/user/1`      | Get user information containing whether or not the user is logged_in | X | X | X |
-| `api/articles`             | Get article list | Create new article | Edit specified article | X |
-| `api/articles/:id`         | Get specified article | X | X | Delete specified article |
-| `api/comments`        | Get comments | Create new comment | Edit specified comment | X |
-| `api/comments/:id`         | Get specified comment | X | X | Delete specified comment |
+| `api/user`        | X | X | X | X |
+| `api/user/1`      | Get user information containing whether or not the user is logged_in | X | Update user's `logged_in` value to log-in/log-out | X |
+| `api/articles`             | Get article list | Create new article | X | X |
+| `api/articles/:id`         | Get specified article | X | Edit specified article | Delete specified article |
+| `api/comments`        | Get comments | Create new comment | X | X |
+| `api/comments/:id`         | Get specified comment | X | Edit specified comment | Delete specified comment |
 
 Articles should have an `id` (number), `author_id` (number), `title` (string), and `content` (string).
 Comments should have an `id` (number), `author_id` (number), `article_id` (number), and `content` (string).

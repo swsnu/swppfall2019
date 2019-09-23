@@ -1,6 +1,8 @@
 # Homework 2 - React Library & Testing
 
-#### **Due: 10/8 (Tue) 18:00 (This is a hard deadline)**
+#### **Due (These are hard deadlines)**
+- ##### **Feature Implementation Due: 10/4 (Fri) 18:00**
+- ##### **Testing Implementation Due: 10/11 (Fri) 18:00**
 
 You will implement a front-end for a blogging service using React library. This is an **individual** assignment.
 This assignment will help you

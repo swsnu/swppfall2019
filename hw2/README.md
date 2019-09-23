@@ -188,8 +188,9 @@ We will test your code after conducting `yarn install`, so you can import other 
 
 ## Grading
 
-This assignment is composed of a total of 80 points. We will score your code with our e2e test code, having 55 test cases that reflects the requirements given above. You will get 1 point for each passed test case. Also, we will check your unit test coverage, which is 25 points in total. Grading details are shown below.
+This assignment is composed of a total of 80 points. We will score your feature implementation (**lastest commit before 4 October 11:59 PM**) with our e2e test code, having 55 test cases that reflects the requirements given above. You will get 1 point for each passed test case. Also, we will check your unit test coverage (**latest commit before 11 October 11:59 PM**), which is 25 points in total. Grading details are shown below.
 
+### Feature Implementation Score
 The e2e test consist of cases about:
 - Log in page features (4 points)
 - Article list page features (5 points)
@@ -198,15 +199,19 @@ The e2e test consist of cases about:
 - Article detail page features when the user is not the author of the article (13 points)
 - Article edit page features (9 points)
 
-Grading details of unittest is
+### Unit Test Score
+Your unit test score will be given based on both test coiverage and completeness of your feature implementation.
+(This is to make sure that your test code is faithful to the feature requirements.)
+To be more precise, your unit test score will be given as follows:
+(*score<sub>feature</sub>* denotes your feature implementation score)
 
 | <center>Coverage</center> | <center>Points</center> |
 | :-----------------------: | :---------------------: |
-|       90% and above       |  <center>25 </center>   |
-|       80% and above       |   <center>20</center>   |
-|       70% and above       |   <center>15 </center>   |
-|       60% and above       |   <center>10 </center>   |
-|         below 60%         |   <center>0 </center>   |
+|       90% and above       | <center>25 * (*score<sub>feature</sub>* / 55)</center>   |
+|       80% and above       | <center>20 * (*score<sub>feature</sub>* / 55)</center>   |
+|       70% and above       | <center>15 * (*score<sub>feature</sub>* / 55) </center>   |
+|       60% and above       | <center>10 * (*score<sub>feature</sub>* / 55) </center>   |
+|         below 60%         | <center>0 </center>   |
 
 *Note: All your test cases must pass*
 

@@ -201,7 +201,7 @@ The e2e test consist of cases about:
 
 ### Unit Test Score
 Your unit test score will be given based on both test coiverage and completeness of your feature implementation.
-(This is to make sure that your test code is faithful to the feature requirements.)
+This is to make sure that your test code is faithful to the feature requirements.
 To be more precise, your unit test score will be given as follows:  
 (*score<sub>feature</sub>* denotes your feature implementation score)
 

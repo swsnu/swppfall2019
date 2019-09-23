@@ -220,7 +220,9 @@ Finally, since you have to implement many features, start early!
 
 ## Submission
 
-**Due: 10/8 (Tue) 18:00 (This is a hard deadline)**
+**Due: (These are hard deadlines)**
+- **Feature Implementation Due: 10/4 (Fri) 18:00**
+- **Testing Implementation Due: 10/11 (Fri) 18:00**
 
 We will check the snapshot of the *master* branch of your Github repository at the deadline and grade it.
 Please name your repository as `swpp-hw2-YOUR_USERNAME`, and replace YOUR_USERNAME with your own GitHub username. Please note that USERNAME is case-sensitive.

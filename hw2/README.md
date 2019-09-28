@@ -160,7 +160,7 @@ You should be able to implement your redux action creators by sending appropriat
 
 | API                    | GET | POST | PUT | DELETE |
 |------------------------|-----|------|-----|--------|
-| `api/user`        | X | X | X | X |
+| `api/user`        | Get user list | X | X | X |
 | `api/user/1`      | Get user information containing whether or not the user is logged_in | X | Update user's `logged_in` value to log-in/log-out | X |
 | `api/articles`             | Get article list | Create new article | X | X |
 | `api/articles/:id`         | Get specified article | X | Edit specified article | Delete specified article |

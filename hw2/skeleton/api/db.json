@@ -138,8 +138,7 @@
       "id": 13,
       "article_id": 17,
       "author_id": 1,
-      "content": "I don't think so",
-      "author": "Software Lover"
+      "content": "I don't think so"
     },
     {
       "id": 14,
@@ -193,8 +192,7 @@
       "author_id": 1,
       "article_id": 0,
       "content": "Wow!",
-      "id": 22,
-      "author": "Software Lover"
+      "id": 22
     }
   ],
   "user": [

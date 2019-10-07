@@ -17,7 +17,11 @@
   - This is an individual assignment
 
 - Sep. 17 : [homework 2](hw2) is out
-  - **Due : 10/8 (Tue) 18:00 (hard deadline)**
+  - **Due : 10/4 (Fri) 18:00 (feature), 10/11 (Fri) 18:00 (unittest) (hard deadline)**
+  - This is an individual assignment
+  
+- Oct. 07: [homework 3](hw3) is out
+  - **Due : 10/27 (Sun) 18:00 (hard deadline)**
   - This is an individual assignment
 
 ## [Project Guideline](project)
@@ -30,10 +34,10 @@
 |9/16,18 | Good coding habits. Comments and code conventions | React Tutorial |  Project proposal due 9/17 (Tue) 6pm, HW 1 due 9/15 6pm ||
 |9/23,25 | Complexity problem and software structures | Redux Tutorial |  Project sprint 1 begin (bi-weekly meetings with TAs at the end of sprint) | 
 |9/30,10/2 | Complexity problem and software structures | React + Redux Testing |  |
-|10/7,9 | Testing and throwing exceptions, Requirements and specification | CI, Project Setup, Django Intro | HW 2 due 10/8 6pm, Project sprint 2 begin |
+|10/7,9 | Testing and throwing exceptions, Requirements and specification | CI, Project Setup, Django Intro | HW 2 due 10/11 6pm, Project sprint 2 begin |
 |10/14,16 | Software development processes, Design patterns I | Django, React + Django Setup | |
 |10/21,23 | Software structure and modeling | Django Testing | Project sprint 3 begin |
-|10/28,30 | Code refactoring | Mid-project check | HW 3 due 10/29 6pm |
+|10/28,30 | Code refactoring | Mid-project check | HW 3 due 10/27 6pm |
 |11/4,6 | Design patterns 2 | DB + Backend, Writing Good Code | Project sprint 4 begin |
 |11/11,13 | Design patterns 3 | Design Pattern, Code Refactoring  |  |
 |11/18,20 | Operation | Code Review | Project sprint 5 begin |

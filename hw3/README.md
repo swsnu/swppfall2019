@@ -122,13 +122,13 @@ Also, please make sure to implement your request methods under the following det
   Response with a JSON having a list of dictionaries for each article's `title`, `content`, and `author`. The value of the `author` must be the `id` of the author but not her `username`.
 - POST `api/article`:
 
-  Create an article with the information given by request JSON body and response with `201`. Requested JSON body should be included in response's content.
+  Create an article with the information given by request JSON body and response with `201`. Posted article (with it's assigned id) should be included in response's content as JSON format. 
 - GET `api/article/:article_id`:
 
   Response with a JSON having a dictionary for the target article's `title`, `content`, and `author`. The value of the `author` must be the `id` of the author but not her `username`.
 - PUT `api/article/:article_id`:
 
-  Update the target article with the information given by request JSON body and response with `200`. Requested JSON body should be included in response's content.
+  Update the target article with the information given by request JSON body and response with `200`. Updated article (with it's id) should be included in response's content as JSON format. 
 - DELETE `api/article/:article_id`:
 
   Delete the target article and response with `200`. When deleting an article, all comments under the target article (but not any comments under other articles, of course) **must** be deleted also.
@@ -137,13 +137,13 @@ Also, please make sure to implement your request methods under the following det
   Response with a JSON having a list of dictionaries for each comment's `article`, `content`, and `author`. The value of the `article` and the `author` must be the `id` of the article and the author but not the `title` and her `username`.
 - POST `api/article/:article_id/comment`:
 
-  Create a comment with the information given by request JSON body and response with `201`. Requested JSON body should be included in response's content.
+  Create a comment with the information given by request JSON body and response with `201`. Posted comment (with it's assigned id) should be included in response's content as JSON format. 
 - GET `api/comment/:comment_id`:
 
   Response with a JSON having a dictionary for the target comment's `article`, `content`, and `author`. The value of the `article` and the `author` must be the `id` of the article and the author but not the `title` and her `username`.
 - PUT `api/comment/:comment_id`:
 
-  Update the target comment with the information given by request JSON body and response with `200`. Requested JSON body should be included in response's content.
+  Update the target comment with the information given by request JSON body and response with `200`. Updated comment (with it's id) should be included in response's content as JSON format. 
 - DELETE `api/comment/:comment_id`:
 
   Delete the target comment and response with `200`. When deleting a comment, other users, articles and comments **must** not be deleted also.

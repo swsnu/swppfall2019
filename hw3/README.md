@@ -92,6 +92,7 @@ The list of response codes you should use is as follows:
   - `200` (Ok) : Request was responded successfully.
   - `201` (Created) : Request has created new resources successfully.
   - `204` (No Content) : Request was responded successfully but without any content.
+  - `400` (Bad Request) : Failed to decode request body or failed to retrieve necessary key-value from json (`KeyError`).
   - `401` (Unauthorized) : Request requires authentication. This should be returned if you are requesting without signing in.
   - `403` (Forbidden) : Request is forbidden. This should be returned if your request tries to modify resources of which you are not the owner.
   - `404` (Not Found) : Requested resource is not found. 

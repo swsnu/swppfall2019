@@ -30,6 +30,9 @@ Note : Every document for each milestones must be written in **English**!
 
 [Sprint Instructions](sprint-instructions.md) 
 
+## Resources
+[Code review developer guide](https://google.github.io/eng-practices/review/)
+
 ## Project Timeline
 | | Start | End | TA meeting |
 |-|-------|-----|------------|

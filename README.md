@@ -44,6 +44,7 @@
 |11/25,27 | Operation (load testing, security) | Deployment + Optimization | Coding exams (Minimum 3 hours) |
 |12/2,4 | Code optimization |Deployment + Optimization | Project sprint 6 begin |
 |12/9,11 | Advanced topics | | |
+|12/15 | Project demo video submission due (6pm) | | |
 |12/16 | Project poster session | | Project final report (due 12/18 6pm) |
 
 ## Office hours

@@ -25,7 +25,7 @@ Write a short (1~2 pages) summary for sprint and submit it along with the revise
 - What were the main difficulties so far?  You should consider both technical and organization issues.
 - Were there any features you did not implement as planned, and why? Are you pushing some features to later sprints, and if so, why?
 - What tests did you prepare for this sprint, and what are they covering? Did the tests you wrote deviate from your plan? What features are you not testing yet? Did you use any test frameworks?
-- You must include in your progress report a test coverage report. The coverage metric must be over 70%. If it's below 70%, you will lose 10% of the overall score of that sprint. This number may change each sprint.
+- You must include in your progress report a test coverage report. The coverage metric must be over 80%. If it's below 80%, you will lose 10% of the overall score of that sprint. This number may change each sprint.
 You must specify what tool did you use, and you must include one or more screenshots showing:
   - The overall coverage metric
   - The list of classes with lowest coverage. Explain why is the coverage low, and what (if anything) you plan to do about it  

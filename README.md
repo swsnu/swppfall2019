@@ -75,7 +75,7 @@ Haeyoon Cho
 2. [CosMOS : your cosmetics personal shopper](https://github.com/swsnu/swpp2019-team2)
 3. [PapersFeed: Browse and Organize papers, Share and Expand your ideas](https://github.com/swsnu/swpp2019-team3)
 4. [ASSA: Auto Scheduling & Sharing App](https://github.com/swsnu/swpp2019-team4)
-5. [WearHouse: Your very own fashion Warehouse]((https://github.com/swsnu/swpp2019-team5)
+5. [WearHouse: Your very own fashion Warehouse](https://github.com/swsnu/swpp2019-team5)
 6. [Triplannet: Powerful travel planner that helps you to share and organize your travel plans easily](https://github.com/swsnu/swpp2019-team6)
 7. [PillBox : Keep Your Pills Managed. Service that notifies users automatically when to take pills using OCR technology, so that users never miss their pills](https://github.com/swsnu/swpp2019-team7)
 8. [SNUVOICE: Collects SNU Students' Voice](https://github.com/swsnu/swpp2019-team8)

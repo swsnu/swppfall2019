@@ -107,7 +107,7 @@ Please make sure to implement your request methods under the following global sp
 
 Among these global specifications, the prior specification has the higher priority. For example, if someone requests for a non-existing article without signing in, response with `401` instead of `404`.
 
-Also, please make sure to implement your request methods under the following detailed specifications (in your `views.py`)
+Also, please make sure to implement your request methods under the following detailed specifications (in your `views.py`). When the server successfully handles a request, it responds with a JSONResponse for GET and responds with a HTTPResponse for POST, PUT, and DELETE. 
 
 - POST `api/signup`:
 
